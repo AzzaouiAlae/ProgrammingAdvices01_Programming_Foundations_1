@@ -58,4 +58,3 @@ By the end of this course, you will have a clear grasp of the foundational conce
 
 - **Sequential Learning:** Start from the first module and work your way through the course for a comprehensive learning experience.
 - **Review & Practice:** Feel free to revisit any topics as needed. Each PDF is designed to be a standalone resource.
-- **Additional Resources:** If you need further reading or practical exercises, consider exploring additional tutorials or coding challenges related to these topics.
